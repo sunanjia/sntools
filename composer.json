@@ -1,6 +1,8 @@
 {
     "name": "sunan/sntools",
     "description": "php tools",
+    "type": "library",
+    "keywords": ["tool"],
     "license": "MIT",
     "authors": [
         {
